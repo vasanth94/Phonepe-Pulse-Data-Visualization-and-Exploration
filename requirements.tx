@@ -1,0 +1,5 @@
+# Required Python Libraries
+mysql-connector-python
+pandas
+streamlit
+plotly
