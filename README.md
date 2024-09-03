@@ -7,7 +7,18 @@ Problem Statement:
 
 The PhonePe Pulse GitHub repository holds extensive data that requires extraction and processing to derive meaningful insights. The solution entails:
 
-Data Extraction: Scripting to clone the GitHub repository and fetch the data. Data Transformation: Using Python and Pandas for cleaning and formatting. Database Insertion: Storing transformed data in MySQL for efficient retrieval. Dashboard Creation: Utilizing Streamlit and Plotly to build an interactive visualization tool. Data Retrieval: Fetching data from the MySQL database to dynamically update the dashboard. Deployment: Ensuring security, efficiency, and user-friendliness of the solution. Approach Data Extraction: Scripting to clone the GitHub repository and store data in CSV or JSON format. Data Transformation: Python and Pandas for cleaning, handling missing values, and formatting data. Database Insertion: Using mysql-connector-python to connect and insert data into MySQL. Dashboard Creation: Streamlit and Plotly for an interactive and visually appealing dashboard. Data Retrieval: mysql-connector-python to fetch data into Pandas dataframe for dynamic updates. Deployment: Thorough testing and public deployment for accessibility.
+Data Extraction: Scripting to clone the GitHub repository and fetch the data.
+Data Transformation: Using Python and Pandas for cleaning and formatting.
+Database Insertion: Storing transformed data in MySQL for efficient retrieval. 
+Dashboard Creation: Utilizing Streamlit and Plotly to build an interactive visualization tool.
+Data Retrieval: Fetching data from the MySQL database to dynamically update the dashboard.
+Deployment: Ensuring security, efficiency, and user-friendliness of the solution. 
+Approach Data Extraction: Scripting to clone the GitHub repository and store data in CSV or JSON format. 
+Data Transformation: Python and Pandas for cleaning, handling missing values, and formatting data. 
+Database Insertion: Using mysql-connector-python to connect and insert data into MySQL. 
+Dashboard Creation: Streamlit and Plotly for an interactive and visually appealing dashboard.
+Data Retrieval: mysql-connector-python to fetch data into Pandas dataframe for dynamic updates. 
+Deployment: Thorough testing and public deployment for accessibility.
 
 Results:
 
